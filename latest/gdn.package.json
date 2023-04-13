@@ -1,1 +1,49 @@
-
+{
+    "packages": {
+        "Discord Development": {
+            "version": 1.0,
+            "featured": false,
+            "isPublished": true,
+            "description": "Use Minehut API in Java by just using this simple package",
+            "programmingLanguage": "Java",
+            "path": "/discorddev",
+            "fullpath": "https://packages.galaxydevnetwork.com/mhapi",
+            "repositoryURL": "https://github.com/meme20200/minehut",
+            "packageOn": "JetBrainsPackage" 
+        },
+        "Minehut Wrapper API": {
+            "version": 1.1,
+            "featured": true,
+            "isPublished": true,
+            "description": "Use Minehut API in Java by just using this simple package",
+            "programmingLanguage": "Java",
+            "path": "/mhapi",
+            "fullpath": "https://packages.galaxydevnetwork.com/mhapi",
+            "repositoryURL": "https://github.com/meme20200/minehut",
+            "packageOn": "Github" 
+        }
+    },
+    "universes": {
+        "meme20200": {
+            "version": 5.0,
+            "where": "Minecraft",
+            "featured": true,
+            "maintained": true,
+            "programmingLanguage": "Java"
+        },
+        "galaxydev": {
+            "version": 1.15,
+            "where": "Discord",
+            "featured": false,
+            "maintained": true,
+            "programmingLanguage": "Java"
+        },
+        "mhtracker": {
+            "version": 1.1,
+            "where": "Minecraft",
+            "featured": false,
+            "maintained": true,
+            "programmingLanguage": "Java"
+        }
+    }
+}
